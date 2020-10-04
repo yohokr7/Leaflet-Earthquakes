@@ -1,3 +1,3 @@
 # Leaflet Homework - Visualizing Data with Leaflet
  
-*[Website](index.html)
+[Index File](index.html)
